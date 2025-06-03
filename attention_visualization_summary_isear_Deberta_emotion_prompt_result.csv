@@ -1,0 +1,171 @@
+label,text,avg_attention
+disgust,It was when I read a newspaper article on the future and they foresaw that we would be eating frog-burgers by the year . An illustration showed a frog between two pieces of bread. ,0.031440046
+shame,"I was worried by a task related to my studies which had to be done in groups of two. I was talking about it to my friends when I said something negative, in too abrupt a manner, concerning my work partner. I did not quite mean what I said and I felt ashamed at having been mean enough to criticize him as he is also a friend of mine. ",0.036142882
+fear,Risk of being involved in a fight after a party. ,0.07345716
+disgust,When I was on holiday someone vomited in front of me. ,0.07802832
+disgust,"When I was working as a nurse in a mental hospital, a patient ate up the contents of another patient's spitoon. ",0.059278633
+guilt,When I decided to take a week s holiday without consulting the family first. ,0.05276672
+joy,After my girl and I talked things over our relationship changed and became positive. A diificult time turned into pleasant one. ,0.020405067
+shame,When I was a child it was found out that I had taken off my clothes outdoors. It was summer and my friend and I were out in the woods. It had felt exciting at that time. My parents discovered that my trousers were back to front and I felt ashamed. ,0.07429043
+fear,"When my relationship with my family is very poor I often fear being excluded from the group, a fear which is stronger in situations when an argument is on hand. ",0.04302984
+guilt,"When ,due to hunger and tiredness, I became generally irritated with my fiancee and made cutting remarks which really hurt him. Later I realized that my unfounded irritation had hurt the person I love most on earth. ",0.11016854
+shame,"When as an year old, I wet myself in school. ",0.08932552
+shame,On the train a drunk person touched my baby and I reacted very disapprovingly. I felt ashamed later as the person had not been aggressive though he could have been. ,0.035801772
+shame,"I insulted a couple of good friends of mine and even tried to hit them when I was drunk. The next day, I was ashamed of course. ",0.061453685
+disgust,"When I was touring Asia with my present football team, I saw old Europeans with young asiatic prostitutes. ",0.07415147
+anger,"When I tried to put up a tent some years ago, I was teased and hindered by my cousin. ",0.053417787
+joy,"I was in hospital, and then was visited by someone quite unexpected. ",0.060379144
+anger,"Being subject to unfair treatment in a working group, someone ""bending the rules"" was protected by the boss. This resulted in more work for the others. ",0.04103002
+joy,"Receiving a postcard form my sweetheart who was abroad on vacation, not being at all sure if he would write me or not. ",0.06731728
+fear,Going home alone through the forest after a girl guide (scout ? ) meeting. ,0.07064659
+disgust,"Having been unjustly punished, I feel disgust towards the person responsible. ",0.063312314
+shame,I made a major mistake while learning how to use a computer programme and the teacher criticized me. ,0.087314546
+guilt,I had quarelled with a friend of mine and I later realized that it was also my fault. ,0.1296212
+shame,"On the way back from a Summer spent in Sweden, I drunk with a man in the train. I had drunk so much that when I got home I fell asleep in the entrance hall. I have never drunk that much, neither before nor after that incident. I was ashamed because my mother and my sister had to see me in that state and my father had to carry me to bed. ",0.055175874
+shame,"While quarelling with a fellow worker of mine, I was vehement and irritated and I told him what I thought of him in plain language. I was ashamed of myself when I met him the next day. ",0.059552696
+shame,"At school I was talking to a classmate about mathematics. I had grown weary of it and said ""I would like to throw the book on the arse of Kuikka"". My classmate said ""Now, he is sitting there and waiting for the book"" (Kuikka was one of the most quiet boys of the class). I was ashamed of myself. ",0.09257891
+joy,"[ During inter-rail-trip, after troubles, I met my little sister. ] ",0.086907856
+shame,"My love and me rented a room in a hotel one evening. We stayed there a few hours and when leaving the hotel, I felt ashamed. ",0.069570735
+disgust,When I noticed two spiders running on the floor in different directions. ,0.04912136
+disgust,"A man tried to have sexual intercourse with me, though I had communicated my unwillingness. Later on, I felt disgust at that person as well as myself because I had partly submitted. ",0.045295607
+shame,"While working as a domestic helper, one day I had not cleaned up very well and they made a remark about it. ",0.060681403
+shame,My friend told me in a fairly loud voice the blunders she committed last night. ,0.08041862
+sadness,"The fact that my mother is getting married again (my mother and father divorced about years ago) means that she will probably move to Turku, and our home, which is a one family house, will be sold (I myself have not been living at home for the past six years). ",0.043673944
+disgust,"Father said If you are pregnant, you will have to procure abortion. I was filled with disgust against my father. ",0.019027656
+shame,"When I was a child, I thought that I had to be ashamed when asking and doing certain forbidden things. ",0.058864504
+shame,"When I went to a sauna with my father for the first time (I was ). When I entered the sauna naked, I felt ashamed for a short time. ",0.05767895
+disgust,When a boy had continued to use foul language and swearing in front of a group of my friends. ,0.049773272
+disgust,People spitting in railway stations. ,0.074398056
+shame,During the oral part of my final examination I made a mistake in speaking so that all the teachers laughed at me. ,0.07827013
+shame,In school I was very bad in running long distances and my class-mates laughed at me for this reason. ,0.05930826
+shame,"After a party I spent the night with a friend. We both were drunk, the morning was disillusioning. A friend was me leaving the room and I felt shabby and immoral. ",0.0436534
+guilt,"I had an appointment with a friend. I promised him to meet with him, but at last I did not without having informed him. ",0.0995099
+sadness,"My grandfather was seriously ill, he had only a few days left to live. I had always loved him, but never told him. When I saw him for the last time, I had the feeling that I had omitted so many things I could not do again. - There was a fly sitting on his forehead and he was too weak to drive it away. I was very sad when I saw that. ",0.023583623
+disgust,"When my grandmother was about years old, she lived with us for several years. I saw her illness. I did not even want to breath the air that smelled of her presence. ",0.08320247
+guilt,"When I was , we spent our holidays at the seaside. My sister and her friend wanted to go to a bay on an undangerous way. I wanted to arrive before them and went on a shorter, but more dangerous way. When I arrived, I found nobody there. I waited for a long time, but nobody came. On my way back I met my mother who had been searching for me desperatly. She did not scold me, but I saw how much she had worried (herself). ",0.055526804
+disgust,"When I was a child, I was sometimes forced to eat things that disgusted me. ",0.07066349
+shame,When I made a fool at an examination. ,0.04158883
+joy,When we got a young dog. ,0.05760784
+shame,During a discussion I said something rather stupid and unnecessary. ,0.0944964
+disgust,"A colleague and I were sitting on a bench next to an old man in a shopping centre. the old man coughed and spluttered somewhat, then with his fingers removed the resultant phlegm and mucous from his mouth, and transferred it onto the armrest of the bench. ",0.06872607
+disgust,I discovered some pornographic literature in a workmates drawers. The literature featured pictures of naked women defecating on one another. ,0.08483565
+disgust,When after a party celebrating a friend's st birthday - upon leaving I found people outside throwing up and further unconscious. ,0.06418205
+fear,Walking along with a dog barking at you and following you. ,0.050279155
+shame,I was unaware that I had walked the streets in torn trousers. ,0.09870445
+sadness,As a child - having a dog - it getting a disease and dying. ,0.07850964
+disgust,I went to a restaurant with my boyfriend for dinner. There we saw a couple. the man of the couple was a negro and he hadn't manners for eat. ,0.06766534
+shame,"In the last day of carnaval I met a boy and began to flirt with him. I was in love with him. When he introduced me to his friends I died of shame because I was with them before, I met my boyfriend in carnaval. ",0.035984743
+guilt,"When my father had a serious fight with my sister, because of me. ",0.042018756
+shame,"I was working in I. when a friend of mine borrowed his car so I could get bach there, I had to come to S. Paulo and his car was here. He said ""When you get the car tell my mother that you are only taking the car bacause I asked, for she doesn't like me to borrow it"". Next day he borrowed me it again for I had to come back again. When I was coming back I crashed the car quite a lot. One of the first person I met at the accident was his mother, that said to me ""You weren't to take the car only yesterday ? "" (before I saw her I was already ashamed). ",0.087028824
+disgust,When I had to plunge in a swamp of fetid and stagnant water. ,0.052712943
+disgust,"When I saw the film ""Memorie of Prison"" I saw a scene of masturbation of a man in the hold of a ship apart form fact that the film wasn't pleasant I had a leg of coconut candies in my hands. ",0.060519338
+guilt,One of my pupils escaped from school to the street. ,0.077847876
+joy,"I found a human ""treasure"" that I desired and got immediately. I didn't think about anything. When I touched him I imploded but I am whole. ",0.023995548
+shame,"I was taking place in an anti nuclear protest and was shouting protest loudly to some American sailors of the U. S. Texas submarine. A guy came up to me and said that's your brother screaming at, I felt shame and I realized screaming at another person isn't good protesting. Now I'm a silent protester. ",0.019880129
+disgust,"I felt disgust with the alcohol, after I happened to see a young man, who was dead to the world and who wallowed on the pavement. This ""sight"" I watched from the bus. ",0.02943679
+sadness,"When, for example, I left for the first time my parents and I went to live in Sofia. ",0.06235072
+disgust,Such a feeling springs up in me sometimes when I have meals at a catering establishment. It is a result either of the look of the food or when watching the way some people eat. ,0.07943036
+disgust,I am disgusted with the behavior of a car driver whose car would run over me and my friends during our autumn brigade. ,0.0475252
+disgust,When I see the acts and deeds of a blind drunk man. ,0.07705546
+shame,Immediately after the New Year holidays I happened to visit a party where there was a lot of alcohol and I became drunk. On the next day I felt sort of ashamed when I remembered what I had said and done on the night before. ,0.025727525
+shame,Once I had dinner at an elegant restaurant and I did not have enough money to pay the bill. There were a lot of people there and I felt quite awkward. ,0.05470693
+sadness,When my father a th/th generation colonial (from Eng. ) attacked me verbally about my chosen partner. A man whom he discarded because his colour skin was not white. His ultimate disgust saddned me. ,0.052427202
+disgust,"A gathering of a social sports club at which they proceeded to show pornographic videos and then afterwards (when most people had had quite a bit to drink) carried on in a very degrading, unmoral manner - especially females exposing and flaunting themselves with no shame or embarassment. ",0.055306118
+disgust,Watching an alcoholic woman who was approaching everyone at the wharf for cigarettes - a prostitute in Auckland (elderly). ,0.07732613
+guilt,Someone asked me to do something and I made up an excuse and said no. I then went and didn't the same thing with someone else and hoped the first person never found out. ,0.078397006
+joy,When my brother who has been out of New Zealand for years came to visit with his wife which none of our family had previously met. ,0.059129033
+joy,Getting University Entrance accredited and arriving home from boarding school on accrediting leave. ,0.040311012
+guilt,"I had made an appointment with a girl to go to the movies, but actually I had no mind when we arrived at the cinema, it was a full house. I then went back and she went to the movie alone. ",0.030785337
+shame,I fell down in the bus when it braked suddenly and everybody started looking at me. ,0.07238232
+fear,"My father was very angry with me, and I locked me up in the shower. Then my father knocked his fist through the door, I was scared to death. ",0.084332675
+disgust,"I broke an egg, with which there was something wrong, into a little cup. There was a thick white ""wad"" in it. I tried to take it out and throw it in the sink. ",0.04997449
+disgust,I read a book about torture. The book described exactly how the torturing was done. ,0.06624174
+disgust,"When I read about or think about environmental pollution, the armor race, starvation, etc. Then one realizes that mankind is bad, most important is power and money, at the cost of nature and mankind. ",0.05818756
+disgust,During my birthday party a friend drank too much alcohol. So much that he had to throw up. Worst of all was that he couldn't leave my friend alone and that he was molesting her. ,0.07916207
+guilt,"Someone had to do a lot of efforts to make something work. With my help he would have finished much sooner, but I wasn't in the mood to help him. ",0.027360631
+sadness,"My boyfriend finished our relationship when I started studying psychology in Nijegen, because then we would not be able to meet frequently anymore. ",0.073937334
+shame,After a party in which I made love with a boy in public. Later on I heard that others were talking about me and called me a slut. ,0.089216106
+disgust,When I ate a rotten apple. ,0.054714873
+sadness,"I hadn't been at my parent's place for a long time. When I went to visit them I had high expectations, but when I was there it was very different from what I expected. ",0.03991274
+sadness,When I noticed that my parents were not in such a prosperity as most people in my surroundings. ,0.060625285
+joy,"For a few days I felt very miserable, distressed and listless, with crying fits. When this was over I felt very happy, although there was no special reason. ",0.026035393
+joy,After the funeral of an acquaintance I felt very depressed. That feeling turned into joy when I heard that I had achieved a good grade for an examination. ,0.040675495
+shame,"A friend came for dinner with me at home. His parents are ordinary people. My mother, however, used the very expensive porcelain dinner-service and the silver cutlery. I felt very ashamed. ",0.05056928
+fear,When I almost fell down from some rocks because I had been acting foolishly and playing dangerously. ,0.06393366
+disgust,When I saw a scene on T. V where a castration was shown. ,0.056740087
+disgust,When I saw a film where a black was rapeing a girl while another one was filming it for a pornographic movie. ,0.0794713
+disgust,When I saw several people washing their car with water from a drain. ,0.050392747
+disgust,"When after a storm in the country, I left my shelter and saw a big, fat, slimy green toad by my side. ",0.06295381
+shame,When a friend from whom I preferred to hide my private life discovered that I had relations with a man. ,0.051428486
+guilt,"Once, I accidentally injured a boy in the eye and he almost lost it. ",0.050175812
+shame,A professor was going to read aloud in class a composition of mine in which I had criticized some political attitudes and also some class-mates. I was ashamed at having written that. ,0.03986017
+shame,I slipped and fell in to a puddle and people started looking at me. ,0.06365337
+shame,"I feel this emotion very often when I try to express my feelings in public, because other people do not understand my reactions and think that I am silly. ",0.07529025
+shame,When I was young I was told to to the shop to buy a dozen eggs. I went and asked for one egg and the people in the shop laughed at me and so did my family when I told them what had happened. ,0.057357416
+shame,"When I was taking an exam in grade . The examinator found me with a note-book and accused me of copying, All the students laughed at me. ",0.05803297
+shame,"When a lady I was flirting with told all my class-mates that she was in second year while I was in first year, everyone laughed and started looking at me. ",0.033721525
+disgust,A pig in the well from which we drink. ,0.08633697
+shame,"I had gone to aa bookshop to buy some books. Somehow, I got very cross with the security guard checking through what I had bought. I lost my temper and screamed at him. Later I felt very ashamed at myself as a lot of people I know were there. ",0.080129676
+fear,"When I was going home, I saw somathing which looked like a snake on the road but later I found out that it was only a stick. ",0.09339198
+joy,My son was registered to get admission in grade one of the primary school. The chances of him getting a place there was /. Two weeks later I was informed that he had been enrolled. ,0.029562859
+joy,I was very happy when I received the year end results as I was worried about how well I had done. I was very happy to know that I had passed. ,0.071395
+shame,I was wearing a slit tight dress at a disco and it burst open. ,0.07694386
+disgust,I felt disgusted at my teams poor perfomance prior to league play. ,0.07454302
+disgust,I saw someone that I thought I knew repeatedly drunk. I do not like to be around alcoholics. ,0.090091445
+shame,A friend of mine had said something about not liking to come to my place just before coming to my place. In the meanwhile I got to learn about this from another friend of mine and when she arrived at my place I really treated her badly. I was later ashamed of the way I had treated someone when the person was at my place. ,0.06371396
+shame,"During a class I was asked a question which I did not hear very clearly, so I gave an answer which was not related to the question and everyone started laughing at me. ",0.07684293
+sadness,"Once my friend and I got into into a hot discussion on a very controversial topic. At one point of the argument I disagreed with her totally and I took what she was saying as an insult. So I couter-argued and unknowingly hurt her emotionally, I felt very sad about this. ",0.050802965
+shame,When I had to walk home from the bus-stop in a skirt that I had soiled. It drew a lot of attention and they all seemed to want to see the blood stains. ,0.028890967
+disgust,When I went to the clinic for a medical check-up and saw the way the lecturer was conducting the lecture and the kind of responses he got from the patients. ,0.031489167
+shame,My article not chosen by the college newspaper ,0.12504205
+joy,"Achieving my goal at a swim meet. I worked toward the goal for yrs. I was capable of achieving it, but I didn't know when. ",0.0645609
+shame,I was wearing a short skirt one day and someone told me my underwear was showing. ,0.06716848
+guilt,After days or weekends where I did not accomplish the amount of sudying that I wanted to because of more pleasant activities which come up. ,0.06668157
+disgust,I applied for a job of GALSO counselor and I made the strongest possible application but was denied an interview. I felt disgusted at the system which by promoting the cause of minorities makes employing whites lowest priority. ,0.03141308
+shame,When I lied to my best friend about a boy she really liked but he didn't like her. I told her he did and she bugged him for a long time embarrassing herself. ,0.054414798
+shame,I slipped on butter one evening in the Dining Commons landed on my rear causing my tray also to land on the floor. ,0.08559089
+shame,The first time I slept at my boyfriends house and had to walk down the hall to the shower in front of his housemates. I felt they were judging me. ,0.020591814
+disgust,I was reading in the paper the feature on Henry Lucas who claims to have killed people. He was a recreational killer and a necrophiliac and zoophiliac. He has raped and beaten many women and killed men too. ,0.043739364
+sadness,My girlfriend wanted to breakup for an indefinite amt. of time. She said that she couldn't commit herself fully to the relationship without going out with other people. I was her first boyfriend. ,0.060319696
+joy,My parents and brother came up over the weekend. We are a very close family. This was my first year away from home. They brought one jacko-lantern with a new design. That is the old joke that we have a great new design - it's always the same. ,0.124734916
+disgust,I vividly remember having feelings of disgust toward some of my jr. high classmates who didn't work at all on their schoolwork and who would coplain and take my tax money when I was older and more successful than they were. At the time I pictured some adults like this that I knew in the complaining situation. ,0.02310011
+joy,After much trouble getting together in the first place my boyfriend and I celebrated our first anniversary. ,0.0635794
+fear,That I would do bad in a class and not get into Bus school. ,0.058911875
+disgust,"A girl, who is a friend of mine was having an affair with a boy who is also a friend of mine. I got to know that this girl was also seeing another guy. Later on, she just broke off with this friend of mine without giving any explanations. This made him sad and depressed, and I felt disgust for this girl. ",0.03456169
+fear,"I had a very horrible dream one night, I dreamt that I had fallen off a very crowded train. ",0.04303491
+joy,"When the results of the part I exams came out I felt tremendous joy in my heart. The results came out after a long period of worry and anxiety, so it gave me endless relief and joy. ",0.034972906
+shame,"This is an event I will never forget. I am considered a good mimic. This particular day we were waiting for a professor to take her class. This professor had a peculiar accent and a very horrible way of lecturing and to top it all we had this class at the fag end of the day. So this particular day I got into my element and started imitating the professor, and the professor entered the class right in the middle of it . I was unaware of her presence, some of my friends tried to warn me but it was of no avail as I was too engrossed in mimicing. Then I suddenly noticed the silence and turned around to see her entering the class. I do not know till today if she actually saw what I had been doing or she had completely ignored it. Through out that lecture I died of shame. All the more shameful was the fact that she gave me a character certificate. ",0.03402802
+shame,"I was learning judo and my instructor wanted me to assist him in teaching girls judo at a suburban college. I was just a beginer, and he made me a green belt so that I would be able to command respect. This was against my principles, and yet I allowed myself to listen to him. I gave it up soon after, however I felt very ashamed at not sticking to my principles and at not having put my foot down earlier. ",0.041627128
+fear,"One of my fellow students had bunked field work and in my attempt to cover up for him I myself was exposed, though not directly. We were to meet our field work suprevisor and we were afraid of the consequences. ",0.059388842
+fear,"When I did not get admission in M. Sc after my B. Sc, I felt really bad. When I started my journey to Bombay, after having accepted my uncle's offer to come to Bombay, I was afraid, wondering if I would succeed or not. ",0.029840916
+disgust,"After my +, when I did not get admission in B. E I felt disgusted. ",0.074598625
+disgust,I felt disgusted when I was in a helpless position at the loss of my fiancee. ,0.035943136
+disgust,[ When mix was coming from column for several days. ] ,0.04758005
+fear,When I came to know that my exams were on two successive days and that there was very little time (about - hours) to study in between. ,0.036980115
+disgust,There was a family fight in my house some time back. My uncle had given me a watch as a present and I lost it. During the fight he accused me of having sold the watch. I was disgusted at his false accusations. ,0.062416974
+disgust,"One of my best friends was found lying flat on the road because he was drunk and was taken by the police and put in a cell. I went to see him the following morning, the place was really a mess and was smelling badly. I didn't like it. ",0.05223116
+shame,"One day mother slaughtered a chicken for a brother who had come back for holiday. In everybody's absence I opened the foodstore and ate all internal organs of the chicken. When mother discovered, we were all called and I was found with hands stained with soup. I was ashamed being the eldest of all in the family. ",0.058983464
+guilt,When I scored the third goal to my own side at a football match against William Murray Secondary School and we were badly defeated. ,0.020377912
+shame,"In our class we had a test on Nursing, so a friend from the Army was caught peeping, by using a paper which had already answers which was written by him. So all of us from the Army got ashamed. ",0.119918615
+shame,News was spread that I had been found doing sexual intercourse with a small girl. At first this annoyed me but later on I became ashamed because many people seemed to believe it. ,0.056553185
+joy,A boy I had been admiring so much asked me to go out with him. ,0.083724715
+joy,When I heard that I had passed my end of first year exams and I was ready to enter nd year because I felt I had failed as they were very hard. ,0.023693934
+shame,I insulted my friend for a small reason and after time I realised that I was wrong and felt ashamed everytime I meet her I feel ashamed. ,0.05537037
+sadness,Not being accepted by classmates in university. ,0.053889032
+joy,Finding out that I am not ill (not seriously). ,0.07541346
+guilt,A friend asked to borrow my notes and I did not give them away (my notes too badly written) ,0.09515318
+disgust,Saw someone who picked up a cigarette from the floor and smoked it. ,0.06723251
+disgust,Saw someone licking his dining bowl. ,0.10876455
+disgust,I felt disgusted on seeing my boyfriend after our separation. One day he was begging at the mass transit railway station and at that moment I hated him. ,0.02541878
+shame,During a meeting I said something wrong and the others laughed at me. ,0.0871424
+shame,"I had something wrong, saying wrong things and being impolite to someone, and this had embarrassed the this person. And I still meet the person. ",0.07951547
+shame,Once my presentation was the worst among my classmates as I had not prepared it well and had not seen it as important. My presentation was so confused that it clearly showed my poor preparation. ,0.083053015
+shame,"One day, when I was sitting on the bus, there was an old woman standing beside me. I was very tired and sleepy and did not think of giving her my seat. A year old woman who was sitting beside me got up and gave her seat to the old woman and said, "" Old woman, please take my seat, the youngstters these days are not used to giving their seats to others. "" When I heard these words I was very ashamed of myself and wanted to get off the bus at once. ",0.064085595
+shame,When I was emotionally unstable I said things which may have hurt others or made them feel unhappy. When I calmed down I realized that I had been selfish and had not taken into consideration the feelings of others. Then I felt ashamed as someone pointed out my behaviour to me. ,0.07602525
+guilt,I promised to join a meeting but did not turn up as I did not want to do the work. ,0.08444243
+disgust,"I had joined a youth group that observed the affairs of our community and so I had many opportunities to contact the government and the committee members of the district board (a local executive structure). We always tried to consult and discuss with them, but we found that such people did not understand community affairs and they even dampened our enthusiasm in local affairs. I did not understand why they had decided to work as community leaders. ",0.023888864
+shame,"My teacher reminded us not to do a Summer job, however I did it for two months. Yesterday I was chatting with my teacher and when we talked of the Summer job, I felt ashamed. ",0.07249566
+disgust,When my roommate and I had dinner together we decided as to who would clean the bowls. One day when I came back from school I found that she had not cleaned up. Since I had to cook dinner I cleaned them myself and felt unhappy and disgusted. ,0.08980664
+shame,Once a female classmate told me that the clothes I wore seemed to be a child's clothes. On hearing this I felt a little ashamed and I criticized her clothes though there was nothing wrong with them. ,0.028710231
+disgust,The curriculum of the year ! The English course was very heavy. I had not prepared and the teacher asked several questions during class. The students were not ready to answer the questions and the teacher was frustated. ,0.06514271
+shame,My friend had many female friends and I thought that they were his lovers. I would scold him but he did not accept my advice. Later I learnt from his girlfriends that this was not true. I felt ashamed at having misunderstood him. ,0.04431576
